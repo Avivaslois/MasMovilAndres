@@ -1,6 +1,6 @@
-# MasMovil CHALLENGE DotNet Core
+# MasMovil CHALLENGE DotNet Core - Andrés Vivas
 
-##SOLUTION
+## SOLUTION
 
 My solution consits in two microservices deployed in single dockers (catalog and orders). 
 This microservices are developed in .NET CORE 2.1. The catalog microservice implements an SQLite database, which is created with Entity Framework Code First pattern, if the local file "PhoneApp.db" doesn't exists.
@@ -15,7 +15,7 @@ App Requirements:
 	- DotNet Core 2.1
 
 
-###HOW TO RUN:
+### HOW TO RUN:
 
 In "PhoneApp" directory, launch command 
 
