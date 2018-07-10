@@ -1,4 +1,4 @@
-# MasMovil CHALLENGE DotNet Core - Andrés Vivas
+# MasMovil CHALLENGE DotNet Core - Candidato3
 
 ## SOLUTION
 
